@@ -47,5 +47,5 @@ date_today
 stime<-Sys.time()
 stime
 gtime<-as.POSIXct("2021-01-09 14:58:12",tz="GMT")
-gtime
 
+gtime
